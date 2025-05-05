@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Developer.;I+love+coding+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 HOBİ OLARAK YAPIYORUM!
-## GitHub Aktiviteleri
+
 
 
 <p align="center">
