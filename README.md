@@ -1,6 +1,11 @@
 # Hoş Geldiniz!
-Hobi olarak yapıyorum!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Developer.;I+love+coding+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+HOBİ OLARAK YAPIYORUM!
+---
 ## GitHub Aktiviteleri
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anonimtasarim&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats" />
@@ -13,11 +18,9 @@ Hobi olarak yapıyorum!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anonimtasarim&layout=compact&theme=default" alt="Top Languages" />
 </p>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Developer.;I+love+coding+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
 
----
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anonimtasarim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -31,8 +34,7 @@ Hobi olarak yapıyorum!
 
 ---
 
-<div align="center">
-  <img src=
+
 
 
 
