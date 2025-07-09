@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Mirza inci</h1>
+<h1 align="center">Merhaba 👋</h1>
 <h3 align="center">hobi olarak yopıyorum</h3>
 
 <div align="center">
