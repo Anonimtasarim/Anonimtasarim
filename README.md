@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Developer.;I+love+coding+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=anonymtsarim&label=Ziyaretçi&color=red&style=for-the-badge)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonimtasarim" alt="anonimtasarim" /></a> </p>
 
