@@ -20,9 +20,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anonimtasarim&show_icons=true&locale=tr" alt="anonimtasarim" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anonimtasarim&theme=default" alt="GitHub Streak" />
-</p>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anonimtasarim&theme=radical" alt="GitHub Streak" />
 </div>
